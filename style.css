@@ -76,6 +76,7 @@ footer b{color:var(--cream);letter-spacing:2px;font-weight:500}
 .compare .col.em{background:var(--em);color:var(--cream);border-top-color:var(--gold)}
 .compare h3{font-size:24px;margin:16px 0 4px}
 .compare .col.em h3{color:#E9CFA0}
+article .compare .col.em strong{color:#E9CFA0}
 article .compare ul li{background:none;padding:8px 0 8px 26px;margin:0;position:relative;border-bottom:1px solid #1a423714}
 article .compare .em ul li{border-bottom-color:#ffffff22}
 article .compare ul li:before{content:"";position:absolute;left:4px;top:19px;width:8px;height:8px;border-radius:50%;background:var(--gold)}
