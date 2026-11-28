@@ -65,6 +65,8 @@ article blockquote{margin:24px 0;padding:14px 22px;border-left:3px solid var(--g
 .o-price .p{display:block;font-family:'Playfair Display',Georgia,serif;font-size:27px;line-height:1.15;color:var(--ink);white-space:nowrap}
 .o-price .pl{display:block;font-size:12px;color:var(--muted);margin:2px 0 6px;max-width:22ch;margin-left:auto}
 .cta .offers+p{font-weight:600;color:var(--em)}
+.cta .btn.tg{display:block;text-align:center;margin-top:18px;padding:16px 26px;font-size:15px;font-weight:600;background:var(--em);color:var(--cream);box-shadow:0 8px 20px #1a423733}
+.cta .btn.tg:before{content:"✈ ";color:#E9CFA0}
 hr{display:none}
 footer{background:var(--em);color:#d8cbbd;font-size:14px}
 footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;padding-top:26px;padding-bottom:30px;border-top:1px solid var(--gold)}
